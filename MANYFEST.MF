@@ -1,0 +1,5 @@
+Manifest-Version: 1.0//archivo de manifesto
+Created-By: Sebastian Moreno Londonio
+Main-Class: Bienvenida
+X-COMMENT: Curso programacion Java
+
